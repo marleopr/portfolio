@@ -109,25 +109,25 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Filmes Populares - Frontend",
+            title: "Filmes Populares - Case Frontend Promobit",
             live: "http://filmes-marleo.surge.sh/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/marleopr/rodada-cases-1-frontend-filmes-populares-promobit", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Ambulnz Pizza Delivery - Full Stack",
+            title: "Pizza Delivery - Case Full Stack Ambulnz",
             live: "http://ec2-3-88-84-198.compute-1.amazonaws.com:3000/",
             source: "https://github.com/marleopr/ambulnz-front",
             image: mock2
         },
         {
-            title: "LabeFoods - Frontend",
+            title: "LabeFoods - Projeto Frontend",
             live: "https://labefoods-alves5.surge.sh/",
             source: "https://github.com/marleopr/LabeFoods",
             image: mock3
         },
         {
-            title: "Pokedex - Frontend",
+            title: "Pokedex - Projeto Frontend",
             live: "https://pokedex-alves1.surge.sh/",
             source: "https://github.com/marleopr/Pokedex",
             image: mock4
