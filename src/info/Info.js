@@ -27,7 +27,7 @@ export const info = {
     firstName: "Márleo",
     lastName: "Piber",
     // initials: "MPR",
-    initials: <img src={icone}/>, // the example uses first and last, but feel free to use three or more if you like.
+    initials: <img src={icone} />, // the example uses first and last, but feel free to use three or more if you like.
     position: " Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
@@ -101,8 +101,8 @@ export const info = {
             emoji: '📷'
         },
         {
-            label: 'Motociclismo',
-            emoji: '🏍'
+            label: 'Astronomia',
+            emoji: '🌠'
         }
         // Same as above, change the emojis to match / relate to your hobbies or interests.
         // You can also remove the emojis if you'd like, I just think they look cute :P
