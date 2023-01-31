@@ -43,7 +43,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Em busca da primeira oportunidade como Dev"
+            text: "Frontend Developer React JS na GestãoDS"
         },
         {
             emoji: "📧",
