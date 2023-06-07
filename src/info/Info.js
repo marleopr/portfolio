@@ -28,7 +28,7 @@ export const info = {
     lastName: "Piber",
     // initials: "MPR",
     initials: <img src={icone} />, // the example uses first and last, but feel free to use three or more if you like.
-    position: " Full Stack Developer",
+    position: " Desenvolvedor Frontend",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -80,7 +80,7 @@ export const info = {
         // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Olá! Eu sou o Márleo Piber da Rosa, sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER e formado no Bootcamp Web Full Stack da Labenu.",
+    bio: "Olá! Eu sou o Márleo Piber da Rosa, sou um desenvolvedor frontend com formação em Análise e Desenvolvimento de Sistemas e experiência de mais de seis meses como desenvolvedor junior na empresa GestãoDS. Com uma sólida base técnica e um background de 15 anos em manutenção de hardwares e softwares, fiz uma transição de carreira para seguir minha paixão pelo desenvolvimento. Sou proativo, comprometido e estou sempre atualizado com as últimas tendências tecnológicas. Busco novas oportunidades para aplicar meus conhecimentos, colaborar em projetos desafiadores e impulsionar a inovação.",
     skills:
     {
         proficientWith: ['GIT', 'Github', 'JavaScript', 'React', 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'AWS', 'express', 'knex'],
