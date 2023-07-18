@@ -43,7 +43,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Frontend Developer React JS na GestãoDS"
+            text: "Determinado a alcançar novas oportunidades e desafios como desenvolvedor."
         },
         {
             emoji: "📧",
@@ -80,17 +80,17 @@ export const info = {
         // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Olá! Eu sou o Márleo Piber da Rosa, sou um desenvolvedor frontend com formação em Análise e Desenvolvimento de Sistemas e experiência de mais de seis meses como desenvolvedor junior na empresa GestãoDS. Com uma sólida base técnica e um background de 15 anos em manutenção de hardwares e softwares, fiz uma transição de carreira para seguir minha paixão pelo desenvolvimento. Sou proativo, comprometido e estou sempre atualizado com as últimas tendências tecnológicas. Busco novas oportunidades para aplicar meus conhecimentos, colaborar em projetos desafiadores e impulsionar a inovação.",
+    bio: "Olá! Eu sou o Márleo Piber da Rosa, sou um desenvolvedor frontend com formação em Análise e Desenvolvimento de Sistemas e experiência como desenvolvedor na empresa GestãoDS. Com uma sólida base técnica e um background de 15 anos em manutenção de hardwares e softwares, fiz uma transição de carreira para seguir minha paixão pelo desenvolvimento. Sou proativo, comprometido e estou sempre atualizado com as últimas tendências tecnológicas. Busco novas oportunidades para aplicar meus conhecimentos, colaborar em projetos desafiadores e impulsionar a inovação.",
     skills:
     {
-        proficientWith: ['GIT', 'Github', 'JavaScript', 'React', 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'AWS', 'express', 'knex'],
-        exposedTo: ['Adobe Photoshop', 'Adobe Premiere', 'Adobe Ligthroom', 'Adobe Illustrator', 'Figma', 'Material UI']
+        proficientWith: ['GIT', 'Github', 'GitLab', 'JavaScript', 'React', "NextJS", 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'AWS', 'express', 'knex'],
+        exposedTo: ['Adobe Photoshop', 'Adobe Premiere', 'Adobe Ligthroom', 'Adobe Illustrator', 'Figma', 'Material UI', 'Chakra UI']
     }
     ,
     hobbies: [
         {
-            label: 'Videomaker',
-            emoji: '📽'
+            label: 'Novas habilidades como desenvolvedor',
+            emoji: '💻'
         },
         {
             label: 'Drones',
@@ -138,5 +138,33 @@ export const info = {
             source: "https://github.com/marleopr",
             image: mock5
         }
+    ],
+    experiences: [
+        {
+            empresa4: "GestãoDS",
+            cargo4: "Desenvolvedor FrontEnd",
+            funcao4: "Atuando como desenvolvedor em um squad especializado em Bugs N3 e desenvolvimento de melhorias no sistema da empresa, utilizando metodologias ágeis.",
+            tecnologias4: "Vivenciado tecnologias como JavaScript, React, Node, Git e Gitlab.",
+            periodo4: "Dez/2022 - JUL/2023"
+        },
+        {
+            empresa3: "Microempreendedor individual",
+            cargo3: "SUPORTE DE TI",
+            funcao3: "Experiência autônoma (MEI) em suporte e manutenção de computadores, bem como gerenciamento de redes. Além disso, tenho habilidades em publicidade, produzindo imagens institucionais e eventos de destaque.",
+            tecnologias3: "Utilizando ferramentas como Adobe Photoshop, Lightroom, Premiere Pro e possuo conhecimento na operação de drones profissionais.",
+            periodo3: "Mar/2019 - Dez/2022"
+        },
+        {
+            empresa2: "Base Aérea de Santa Maria - Força Aérea Brasileira",
+            cargo2: "Militar",
+            funcao2: "Atuei nos setores de informática, relações públicas e saúde, desempenhando funções de suporte de TI, edições na página da guarnição e auxiliar administrativo. bem como realizar atendimento ao público interno e externo.",
+            periodo2: "Mar/2011 - Mar/2019"
+        },
+        {
+            empresa1: "JaguariNet",
+            cargo1: "Técnico",
+            funcao1: "Atuei no suporte técnico de redes de internet e gerenciamento do sistema do provedor de internet.",
+            periodo1: "Jan/2010 - Fev/2011"
+        },
     ]
 }
