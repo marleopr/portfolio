@@ -83,8 +83,8 @@ export const info = {
     bio: "Olá! Eu sou o Márleo Piber da Rosa, sou um desenvolvedor frontend com formação em Análise e Desenvolvimento de Sistemas e experiência como desenvolvedor na empresa GestãoDS. Com uma sólida base técnica e um background de 15 anos em manutenção de hardwares e softwares, fiz uma transição de carreira para seguir minha paixão pelo desenvolvimento. Sou proativo, comprometido e estou sempre atualizado com as últimas tendências tecnológicas. Busco novas oportunidades para aplicar meus conhecimentos, colaborar em projetos desafiadores e impulsionar a inovação.",
     skills:
     {
-        proficientWith: ['GIT', 'Github', 'JavaScript', 'React', "NextJS", 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'AWS', 'express', 'knex'],
-        exposedTo: ['Adobe Photoshop', 'Adobe Premiere', 'Adobe Ligthroom', 'Adobe Illustrator', 'Figma', 'Material UI']
+        proficientWith: ['GIT', 'Github', 'GitLab', 'JavaScript', 'React', "NextJS", 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'AWS', 'express', 'knex'],
+        exposedTo: ['Adobe Photoshop', 'Adobe Premiere', 'Adobe Ligthroom', 'Adobe Illustrator', 'Figma', 'Material UI', 'Chakra UI']
     }
     ,
     hobbies: [
@@ -144,14 +144,14 @@ export const info = {
             empresa4: "GestãoDS",
             cargo4: "Desenvolvedor FrontEnd",
             funcao4: "Atuando como desenvolvedor em um squad especializado em Bugs N3 e desenvolvimento de melhorias no sistema da empresa, utilizando metodologias ágeis.",
-            tecnologias4: "Vivenciado tecnologias como JavaScript, React, Node,Git e Gitlab.",
+            tecnologias4: "Vivenciado tecnologias como JavaScript, React, Node, Git e Gitlab.",
             periodo4: "Dez/2022 - JUL/2023"
         },
         {
             empresa3: "Microempreendedor individual",
             cargo3: "SUPORTE DE TI",
-            funcao3: "Experiência autônoma (MEI) em suporte e manutenção de computadores,bem como gerenciamento de redes. Além disso, tenho habilidades empublicidade, produzindo imagens institucionais e eventos de destaque.",
-            tecnologias3: "Utilizando ferramentas como Adobe Photoshop, Lightroom, Premiere Pro epossuo conhecimento na operação de drones profissionais.",
+            funcao3: "Experiência autônoma (MEI) em suporte e manutenção de computadores, bem como gerenciamento de redes. Além disso, tenho habilidades em publicidade, produzindo imagens institucionais e eventos de destaque.",
+            tecnologias3: "Utilizando ferramentas como Adobe Photoshop, Lightroom, Premiere Pro e possuo conhecimento na operação de drones profissionais.",
             periodo3: "Mar/2019 - Dez/2022"
         },
         {
@@ -163,7 +163,7 @@ export const info = {
         {
             empresa1: "JaguariNet",
             cargo1: "Técnico",
-            funcao1: "Atuei no suporte técnico de redes de internet e gerenciamento do sistema do provedor de internet",
+            funcao1: "Atuei no suporte técnico de redes de internet e gerenciamento do sistema do provedor de internet.",
             periodo1: "Jan/2010 - Fev/2011"
         },
     ]
