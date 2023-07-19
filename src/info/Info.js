@@ -149,21 +149,21 @@ export const info = {
         },
         {
             empresa3: "Microempreendedor individual",
-            cargo3: "SUPORTE DE TI",
-            funcao3: "Experiência autônoma (MEI) em suporte e manutenção de computadores, bem como gerenciamento de redes. Além disso, tenho habilidades em publicidade, produzindo imagens institucionais e eventos de destaque.",
+            cargo3: "Especialista em Suporte Técnico, Manutenção de Computadores | Gestão de Redes e Publicidade",
+            funcao3: "Experiência autônoma (MEI) em suporte e manutenção de computadores, bem como gerenciamento de redes. Além disso, tenho habilidades em publicidade, produzindo imagens institucionais, eventos de destaque bem como construção de landing pages.",
             tecnologias3: "Utilizando ferramentas como Adobe Photoshop, Lightroom, Premiere Pro e possuo conhecimento na operação de drones profissionais.",
             periodo3: "Mar/2019 - Dez/2022"
         },
         {
             empresa2: "Base Aérea de Santa Maria - Força Aérea Brasileira",
             cargo2: "Militar",
-            funcao2: "Atuei nos setores de informática, relações públicas e saúde, desempenhando funções de suporte de TI, edições na página da guarnição e auxiliar administrativo. bem como realizar atendimento ao público interno e externo.",
+            funcao2: "Atuei nos setores de Tecnologia da Informação, relações públicas e saúde, desempenhando funções de desenvolvimento web (HTML, CSS), suporte de TI (manutenção de hardwares, softwares e redes de internet), auxiliar administrativo e atendimento ao público interno e externo.",
             periodo2: "Mar/2011 - Mar/2019"
         },
         {
             empresa1: "JaguariNet",
-            cargo1: "Técnico",
-            funcao1: "Atuei no suporte técnico de redes de internet e gerenciamento do sistema do provedor de internet.",
+            cargo1: "Técnico em Infraestrutura e Redes de Internet",
+            funcao1: "Atuando com instalação de infraestrutura de redes de internet bem como gerenciamento de servidores e sistema de provedores de internet.",
             periodo1: "Jan/2010 - Fev/2011"
         },
     ]
