@@ -4,6 +4,8 @@ import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
+import mock6 from "../img/mock6.png"
+import mock7 from "../img/mock7.png"
 import icone from "../img/letter-m.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
@@ -109,9 +111,21 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
+            title: "Tracking - Frontend ReactJS",
+            live: "https://marleo-tracking.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/marleopr/tracking", // this should be a link to the **repository** of the project, where the code is hosted.
+            image: mock6
+        },
+        {
+            title: "AstroMatch - Frontend NextJS",
+            live: "https://marleo-astromatch.vercel.app/",
+            source: "https://github.com/marleopr/astromatch-next",
+            image: mock7
+        },
+        {
             title: "Filmes Populares - Case Frontend Promobit",
-            live: "http://filmes-marleo.surge.sh/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/marleopr/rodada-cases-1-frontend-filmes-populares-promobit", // this should be a link to the **repository** of the project, where the code is hosted.
+            live: "http://filmes-marleo.surge.sh/",
+            source: "https://github.com/marleopr/rodada-cases-1-frontend-filmes-populares-promobit",
             image: mock1
         },
         {
