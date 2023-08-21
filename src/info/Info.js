@@ -7,6 +7,7 @@ import mock5 from "../img/mock5.png"
 import mock6 from "../img/mock6.png"
 import mock7 from "../img/mock7.png"
 import mock8 from "../img/mock8.png"
+import mock9 from "../img/mock9.png"
 import icone from "../img/letter-m.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
@@ -30,6 +31,7 @@ export const info = {
     firstName: "Márleo",
     lastName: "Piber",
     // initials: "MPR",
+    // eslint-disable-next-line jsx-a11y/alt-text
     initials: <img src={icone} />, // the example uses first and last, but feel free to use three or more if you like.
     position: " Desenvolvedor Frontend",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
@@ -111,6 +113,12 @@ export const info = {
         // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
+        {
+            title: "DevCoin - Frontend ReactJS",
+            live: "https://marleo-devcoin.vercel.app/",
+            source: "https://github.com/marleopr/devCoin",
+            image: mock9
+        },
         {
             title: "ClimaDev - Frontend ReactJS",
             live: "https://marleo-climadev.vercel.app/",
