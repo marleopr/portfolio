@@ -8,6 +8,7 @@ import mock6 from "../img/mock6.png"
 import mock7 from "../img/mock7.png"
 import mock8 from "../img/mock8.png"
 import mock9 from "../img/mock9.png"
+import mock10 from "../img/mock10.png"
 import icone from "../img/letter-m.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
@@ -113,6 +114,12 @@ export const info = {
         // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
+        {
+            title: "FIPER - Frontend ReactJS",
+            live: "https://fiper.vercel.app/",
+            source: "https://github.com/marleopr/fipe",
+            image: mock10
+        },
         {
             title: "DevCoin - Frontend ReactJS",
             live: "https://marleo-devcoin.vercel.app/",
