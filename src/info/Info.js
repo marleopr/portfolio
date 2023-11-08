@@ -1,6 +1,5 @@
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
-import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
@@ -10,6 +9,7 @@ import mock8 from "../img/mock8.png"
 import mock9 from "../img/mock9.png"
 import mock10 from "../img/mock10.png"
 import mock11 from "../img/mock11.png"
+import mock12 from "../img/mock12.png"
 import icone from "../img/letter-m.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
@@ -116,6 +116,12 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
+            title: "Heróis - Case Frontend Azapfy",
+            live: "https://marleo-azapfy.vercel.app/",
+            source: "https://github.com/marleopr/azapfy",
+            image: mock12
+        },
+        {
             title: "DevPets - Frontend ReactJS",
             live: "https://marleo-devpets.vercel.app/",
             source: "https://github.com/marleopr/devpets",
@@ -156,12 +162,6 @@ export const info = {
             live: "http://filmes-marleo.surge.sh/",
             source: "https://github.com/marleopr/rodada-cases-1-frontend-filmes-populares-promobit",
             image: mock1
-        },
-        {
-            title: "Pizza Delivery - Case Full Stack Ambulnz",
-            live: "http://ec2-3-88-84-198.compute-1.amazonaws.com:3000/",
-            source: "https://github.com/marleopr/ambulnz-front",
-            image: mock2
         },
         {
             title: "LabeFoods - Projeto Frontend",
