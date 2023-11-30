@@ -188,14 +188,14 @@ export const info = {
             cargo4: "Desenvolvedor FrontEnd",
             funcao4: "Atuando como desenvolvedor em um squad especializado em Bugs N3 e desenvolvimento de melhorias no sistema da empresa, utilizando metodologias ágeis.",
             tecnologias4: "Vivenciado tecnologias como JavaScript, React, Node, Git e Gitlab.",
-            periodo4: "Dez/2022 - JUL/2023"
+            periodo4: "Dez/2022 - SET/2023"
         },
         {
             empresa3: "Microempreendedor individual",
             cargo3: "Especialista em Suporte Técnico, Manutenção de Computadores | Gestão de Redes e Publicidade",
             funcao3: "Experiência autônoma (MEI) em suporte e manutenção de computadores, bem como gerenciamento de redes. Além disso, tenho habilidades em publicidade, produzindo imagens institucionais, eventos de destaque bem como construção de landing pages.",
             tecnologias3: "Utilizando ferramentas como Adobe Photoshop, Lightroom, Premiere Pro e possuo conhecimento na operação de drones profissionais.",
-            periodo3: "Mar/2019 - Dez/2022"
+            periodo3: "Mar/2019 - Atualmente"
         },
         {
             empresa2: "Base Aérea de Santa Maria - Força Aérea Brasileira",
