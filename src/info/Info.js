@@ -87,10 +87,10 @@ export const info = {
         // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Olá! Eu sou o Márleo Piber da Rosa, sou um desenvolvedor frontend com formação em Análise e Desenvolvimento de Sistemas e experiência como desenvolvedor na empresa GestãoDS. Com uma sólida base técnica e um background de 15 anos em manutenção de hardwares e softwares, fiz uma transição de carreira para seguir minha paixão pelo desenvolvimento. Sou proativo, comprometido e estou sempre atualizado com as últimas tendências tecnológicas. Busco novas oportunidades para aplicar meus conhecimentos, colaborar em projetos desafiadores e impulsionar a inovação.",
+    bio: "Olá! Eu sou o Márleo Piber da Rosa, sou um desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas e experiência como desenvolvedor. Com uma sólida base técnica e um background de 15 anos em manutenção de hardwares e softwares, fiz uma transição de carreira para seguir minha paixão pelo desenvolvimento. Sou proativo, comprometido e estou sempre atualizado com as últimas tendências tecnológicas.",
     skills:
     {
-        proficientWith: ['GIT', 'Github', 'GitLab', 'JavaScript', 'React', "NextJS", 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'AWS', 'express', 'knex'],
+        proficientWith: ['GIT', 'Github', 'GitLab', 'JavaScript', 'React', "NextJS", 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'PostgreSQL', 'AWS', 'Cypress', 'Express', 'Knex'],
         exposedTo: ['Adobe Photoshop', 'Adobe Premiere', 'Adobe Ligthroom', 'Adobe Illustrator', 'Figma', 'Material UI', 'Chakra UI']
     }
     ,
@@ -184,10 +184,17 @@ export const info = {
     ],
     experiences: [
         {
+            empresa5: "Easy360",
+            cargo5: "Desenvolvedor Full Stack",
+            funcao5: "Manutenção e criação de funcionalidades no sistema Easy360. ",
+            tecnologias5: "Desenvolvimento com JavaScript, TypeScript e ReactJS. Criação de interfaces com Chakra UI. Implementação de serviços AWS. Gestão de dados com PostgreSQL. Desenvolvimento de testes automatizados com Cypress.",
+            periodo5: "Fev/2024 - Atualmente"
+        },
+        {
             empresa4: "GestãoDS",
             cargo4: "Desenvolvedor FrontEnd",
-            funcao4: "Atuando como desenvolvedor em um squad especializado em Bugs N3 e desenvolvimento de melhorias no sistema da empresa, utilizando metodologias ágeis.",
-            tecnologias4: "Vivenciado tecnologias como JavaScript, React, Node, Git e Gitlab.",
+            funcao4: "Manutenção e desenvolvimento de funcionalidades no sistema GestãoDS.",
+            tecnologias4: "Desenvolvimento com JavaScript, ReactJS e NextJS. Criação de interfaces com Chakra UI. Controle de versão com Git e GitLab.",
             periodo4: "Dez/2022 - SET/2023"
         },
         {
