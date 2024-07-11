@@ -7,6 +7,16 @@ import { info } from "../../info/Info";
 
 export default function Experience() {
 
+    function experienceMeText5() {
+        return <>
+            <p><span style={{ color: info.baseColor }}>{info.experiences.map((item) => item.empresa5)}<span
+                className={Style.green}>({info.experiences.map((item) => item.cargo5)})</span> $ </span>
+                {info.experiences.map((item) => item.funcao5)}<br></br><br></br>
+                {info.experiences.map((item) => item.tecnologias5)}<br></br><br></br>
+                {info.experiences.map((item) => item.periodo5)}
+            </p>
+        </>;
+    }
     function experienceMeText4() {
         return <>
             <p><span style={{ color: info.baseColor }}>{info.experiences.map((item) => item.empresa4)}<span
@@ -48,6 +58,7 @@ export default function Experience() {
 
     return (
         <Box display={'flex'} flexDirection={'column'} alignItems={'center'} mt={'3rem'}>
+            <Terminal text={experienceMeText5()} />
             <Terminal text={experienceMeText4()} />
             <Terminal text={experienceMeText3()} />
             <Terminal text={experienceMeText2()} />
