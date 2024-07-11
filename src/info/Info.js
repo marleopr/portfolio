@@ -90,8 +90,8 @@ export const info = {
     bio: "Olá! Eu sou o Márleo Piber da Rosa, sou um desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas e experiência como desenvolvedor. Com uma sólida base técnica e um background de 15 anos em manutenção de hardwares e softwares, fiz uma transição de carreira para seguir minha paixão pelo desenvolvimento. Sou proativo, comprometido e estou sempre atualizado com as últimas tendências tecnológicas.",
     skills:
     {
-        proficientWith: ['GIT', 'Github', 'GitLab', 'JavaScript', 'React', "NextJS", 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'PostgreSQL', 'AWS', 'Cypress', 'Express', 'Knex'],
-        exposedTo: ['Adobe Photoshop', 'Adobe Premiere', 'Adobe Ligthroom', 'Adobe Illustrator', 'Figma', 'Material UI', 'Chakra UI']
+        proficientWith: ['GIT', 'Github', 'GitLab', 'JavaScript', 'React', "NextJS", 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'PostgreSQL', 'AWS', 'Cypress', 'WSL', 'Docker', 'Express', 'Knex'],
+        exposedTo: ['Linux', 'Adobe Photoshop', 'Adobe Premiere', 'Adobe Ligthroom', 'Adobe Illustrator', 'Figma', 'Material UI', 'Chakra UI']
     }
     ,
     hobbies: [
@@ -187,7 +187,7 @@ export const info = {
             empresa5: "Easy360",
             cargo5: "Desenvolvedor Full Stack",
             funcao5: "Manutenção e criação de funcionalidades no sistema Easy360. ",
-            tecnologias5: "Desenvolvimento com JavaScript, TypeScript e ReactJS. Criação de interfaces com Chakra UI. Implementação de serviços AWS. Gestão de dados com PostgreSQL. Desenvolvimento de testes automatizados com Cypress.",
+            tecnologias5: "Desenvolvimento com JavaScript, TypeScript e ReactJS. Criação de interfaces com Chakra UI. Implementação de serviços AWS. Gestão de dados com PostgreSQL. Desenvolvimento de testes automatizados com Cypress. Utilização de WSL e Docker para ambientes de desenvolvimento",
             periodo5: "Fev/2024 - Atualmente"
         },
         {
