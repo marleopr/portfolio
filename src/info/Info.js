@@ -90,8 +90,8 @@ export const info = {
     bio: "Olá! Eu sou o Márleo Piber da Rosa, sou um desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas e experiência como desenvolvedor. Com uma sólida base técnica e um background de 15 anos em manutenção de hardwares e softwares, fiz uma transição de carreira para seguir minha paixão pelo desenvolvimento. Sou proativo, comprometido e estou sempre atualizado com as últimas tendências tecnológicas.",
     skills:
     {
-        proficientWith: ['GIT', 'Github', 'GitLab', 'JavaScript', 'React', "NextJS", 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'PostgreSQL', 'AWS', 'Cypress', 'Express', 'Knex'],
-        exposedTo: ['Adobe Photoshop', 'Adobe Premiere', 'Adobe Ligthroom', 'Adobe Illustrator', 'Figma', 'Material UI', 'Chakra UI']
+        proficientWith: ['GIT', 'Github', 'GitLab', 'JavaScript', 'React', "NextJS", 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'PostgreSQL', 'AWS', 'Cypress', 'WSL', 'Docker', 'WordPress', 'Express', 'Knex'],
+        exposedTo: ['Linux', 'Adobe Photoshop', 'Adobe Premiere', 'Adobe Ligthroom', 'Adobe Illustrator', 'Figma', 'Material UI', 'Chakra UI']
     }
     ,
     hobbies: [
@@ -187,21 +187,21 @@ export const info = {
             empresa5: "Easy360",
             cargo5: "Desenvolvedor Full Stack",
             funcao5: "Manutenção e criação de funcionalidades no sistema Easy360. ",
-            tecnologias5: "Desenvolvimento com JavaScript, TypeScript e ReactJS. Criação de interfaces com Chakra UI. Implementação de serviços AWS. Gestão de dados com PostgreSQL. Desenvolvimento de testes automatizados com Cypress.",
+            tecnologias5: "Desenvolvimento com JavaScript, TypeScript e ReactJS. Criação de interfaces com Chakra UI. Implementação de serviços AWS. Gestão de dados com PostgreSQL. Desenvolvimento de testes automatizados com Cypress. Utilização de WSL e Docker para ambientes de desenvolvimento. Controle de versão e colaboração de código com GitHub",
             periodo5: "Fev/2024 - Atualmente"
         },
         {
             empresa4: "GestãoDS",
             cargo4: "Desenvolvedor FrontEnd",
             funcao4: "Manutenção e desenvolvimento de funcionalidades no sistema GestãoDS.",
-            tecnologias4: "Desenvolvimento com JavaScript, ReactJS e NextJS. Criação de interfaces com Chakra UI. Controle de versão com Git e GitLab.",
+            tecnologias4: "Desenvolvimento com JavaScript, ReactJS e NextJS. Criação de interfaces com com Material UI. Controle de versão com Git e GitLab.",
             periodo4: "Dez/2022 - SET/2023"
         },
         {
             empresa3: "Microempreendedor individual",
             cargo3: "Especialista em Suporte Técnico, Manutenção de Computadores | Gestão de Redes e Publicidade",
-            funcao3: "Experiência autônoma (MEI) em suporte e manutenção de computadores, bem como gerenciamento de redes. Além disso, tenho habilidades em publicidade, produzindo imagens institucionais, eventos de destaque bem como construção de landing pages.",
-            tecnologias3: "Utilizando ferramentas como Adobe Photoshop, Lightroom, Premiere Pro e possuo conhecimento na operação de drones profissionais.",
+            funcao3: "Experiência autônoma (MEI) em suporte e manutenção de computadores e gerenciamento de redes. Além disso, tenho habilidades em publicidade, produzindo imagens institucionais, eventos de destaque bem como construção de landing pages com HTML, CSS e WordPress.",
+            tecnologias3: "Utilizando ferramentas como Adobe Photoshop, Lightroom, Premiere Pro e possuo experiência na operação de drones profissionais.",
             periodo3: "Mar/2019 - Atualmente"
         },
         {
