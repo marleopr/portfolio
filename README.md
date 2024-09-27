@@ -3,7 +3,7 @@ Márleo Piber da Rosa - Desenvolvedor Full Stack | Analista de Sistemas
 GIT | Javascript | HTML | CSS | React | Node | TypeScript | MySQL | AWS
 
 # `Link`
-https://marleo-portfolio.surge.sh/
+https://marleo-portfolio.vercel.app/
 
 
 # `Descrição`
