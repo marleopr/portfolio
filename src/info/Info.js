@@ -159,7 +159,7 @@ export const info = {
         },
         {
             title: "Filmes Populares - Case Frontend Promobit",
-            live: "http://filmes-marleo.surge.sh/",
+            live: "https://filmes-marleo.vercel.app/",
             source: "https://github.com/marleopr/rodada-cases-1-frontend-filmes-populares-promobit",
             image: mock1
         },
