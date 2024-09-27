@@ -146,9 +146,9 @@ export const info = {
             image: mock8
         },
         {
-            title: "Tracking - Frontend ReactJS",
-            live: "https://marleo-tracking.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/marleopr/tracking", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "Tracking - Frontend TypeScript ReactJS",
+            live: "https://trackingts.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/marleopr/tracking-TS", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock6
         },
         {
