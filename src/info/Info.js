@@ -87,7 +87,7 @@ export const info = {
         // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Olá! Eu sou o Márleo Piber da Rosa, sou um desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas e experiência como desenvolvedor. Com uma sólida base técnica e um background de 15 anos em manutenção de hardwares e softwares, fiz uma transição de carreira para seguir minha paixão pelo desenvolvimento. Sou proativo, comprometido e estou sempre atualizado com as últimas tendências tecnológicas.",
+    bio: "Olá! sou o Márleo Piber da Rosa, desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas. Após uma transição de carreira bem-sucedida, estou indo para meu terceiro ano de atuação como desenvolvedor, combinando uma sólida base técnica com 15 anos de experiência prévia em manutenção de hardwares e softwares. Essa trajetória me permitiu construir uma visão completa e prática de desenvolvimento, desde o backend até a experiência do usuário. Sou proativo, comprometido e estou constantemente buscando novas soluções e aprimorando minhas habilidades para acompanhar as tendências tecnológicas.",
     skills:
     {
         proficientWith: ['GIT', 'Github', 'GitLab', 'JavaScript', 'React', "NextJS", 'HTML5', 'CSS3', 'TypeScript', 'Node', 'MySQL', 'PostgreSQL', 'AWS', 'Cypress', 'WSL', 'Docker', 'WordPress', 'Express', 'Knex'],
